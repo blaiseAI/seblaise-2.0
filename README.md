@@ -1,4 +1,4 @@
-# Seblaise-2.0
+# seblaise-2.0
 
 ## Deploy Status
 
