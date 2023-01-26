@@ -31,7 +31,7 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -53,7 +53,7 @@ params:
 
   label:
     text: "Blaise Sebagabo"
-    icon: /apple-touch-icon.png
+    icon: images/coding.png
     iconHeight: 35
 
   # profile-mode
@@ -76,12 +76,12 @@ params:
     Title: "Hi there \U0001F44B"
     Content: I am a software developer at TELUS with experience in .NET, JavaScript, and Rails, who enjoys coding and technology. I can help solve front-end or backend problems.
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
+    - name: linkedIn
+      url: "https://linkedIn.com/in/blaise94"
     - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://stackoverflow.com/users/12550133"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/blaiseAi"
 
   analytics:
     google:
