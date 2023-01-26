@@ -1,4 +1,4 @@
-baseURL: "https://keen-dasik-26099e.netlify.app"
+baseURL: "https://seblaise.dev"
 title: Blaise Sebagabo - Developer, Designer, Founder
 paginate: 5
 theme: PaperMod
@@ -30,7 +30,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
