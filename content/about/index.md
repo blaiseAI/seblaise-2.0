@@ -31,7 +31,7 @@ In my previous role, I have worked in various companies from Startup to Enterpri
 Some of my certifications:
 
 - [**Google Cloud Digital Leader**](https://www.credential.net/f387d3c0-8aaf-448f-938d-91741ff9892f?key=f54cc0a6e234dbfe2596e42282b9680e27659f3f30e7d33be2e4160e47902aa1)
-- [**Scaled Agie**](https://www.credly.com/badges/1e12a8fb-90b0-408a-84ff-1725dff6906b/linked_in_profile)
+- [**Scaled Agile**](https://www.credly.com/badges/1e12a8fb-90b0-408a-84ff-1725dff6906b/linked_in_profile)
 
 You can also connect with me at the following social platforms:
 
