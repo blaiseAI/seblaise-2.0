@@ -16,7 +16,7 @@ draft: false
 
 As a full-stack developer with three years of experience at a Canadian Telecom company, I am highly committed to utilizing my technical skills to drive positive business outcomes. I actively create products that empower my team to deliver outstanding experiences to customers, partners, and stakeholders.
 
-At night, I'm a content creator developing tutorials in data science for the following platforms:
+At night, I'm a content creator developing tutorials in sofware development for the following platforms:
 
 - 📝 [**Dev Blogs**](https://dev.to/blaiseai/).
 - 💻 [**GitHub**](https://github.com/blaiseAI/)
