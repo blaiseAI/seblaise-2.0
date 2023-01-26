@@ -1,4 +1,4 @@
-baseURL: "https://seblaise.dev"
+baseURL: "//seblaise.dev/"
 title: Blaise Sebagabo - Developer, Designer, Founder
 paginate: 5
 theme: PaperMod

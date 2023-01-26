@@ -2,7 +2,7 @@
 title: "Stripe"
 date: 2022-04-03T23:15:00+07:00
 slug: accept-a-payment-with-Stripe
-category: snippetss
+category: snippets
 summary:
 description:
 cover:
