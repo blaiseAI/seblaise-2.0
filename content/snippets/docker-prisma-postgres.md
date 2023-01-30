@@ -90,3 +90,5 @@ DATABASE_URL="postgresql://postgres:123456@localhost:5434/nest?schema=public"
 ```
 
 Congratulation 🎉. This concludes the final step of Setting up a Dockerized NestJS App with PostgreSQL and Prisma ORM
+
+Learn more about prisma ORM, see: https://www.prisma.io
