@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: I'm Blaise, currently furthering innovation at TELUS as a Full-stack Software Developer. I bring a wealth of experience in .NET, JavaScript, Rails, and many other technologies, accumulated through my time with companies such as AltaML and Alberta Health Services. There, I made substantial contributions to high-stakes projects, including the development of Covid Testing and Immunization Booking applications. My skill set spans various programming languages, cloud infrastructures, and software tools, complemented by my teamwork, leadership, and excellent communication skills. This diverse competence allows me to effectively tackle any challenge - be it front-end or backend. Proudly, I hold certifications like the GCP - Cloud Digital Leader and Certified SAFe® 5 Practitioner, reflecting my continuous pursuit of professional growth. Whether spearheading a project or refining my personal development website, my passion for coding and technology shines through in every endeavor.
+    Content: Experienced software developer proficient in designing, developing, and maintaining web and mobile applications using .NET, JavaScript, Java, Ruby on Rails, and SQL Server.
   socialIcons:
     - name: linkedIn
       url: "https://linkedIn.com/in/blaise94"
