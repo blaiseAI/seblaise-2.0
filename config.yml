@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Experienced software developer proficient in designing, developing, and maintaining web and mobile applications using .NET, JavaScript, Java, Ruby on Rails, and SQL Server.
+    Content: I am an experienced software developer proficient in designing, developing, and maintaining web and mobile applications using .NET, JavaScript, Java, Ruby on Rails, and SQL Server.
   socialIcons:
     - name: linkedIn
       url: "https://linkedIn.com/in/blaise94"
