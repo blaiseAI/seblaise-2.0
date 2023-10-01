@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: BlaiseSebagabo
-  description: "I'm Blaise, a software developer at TELUS with extensive experience across a wide spectrum of technologies including .NET, JavaScript, and Rails. My career journey has led me to work with esteemed companies such as AltaML and Alberta Health Services, where I contributed significantly to high-impact projects like the Covid Testing and Immunization Booking applications. My ability to navigate a diverse array of programming languages, cloud infrastructures, and software tools, paired with my effective teamwork and leadership skills, enables me to confidently address both front-end and backend challenges. Beyond the technical, I'm proud to hold certifications such as the GCP - Cloud Digital Leader and Certified SAFe® 5 Practitioner. Whether working on a professional project or enhancing my personal development website, my passion for coding and technology is always evident."
+  description: "Experienced software developer proficient in designing, developing, and maintaining web and mobile applications using .NET, JavaScript, Java, Ruby on Rails, and SQL Server."
   keywords: [Blog, Portfolio, PaperMod]
   author: Blaise Sebagabo
   # author: ["Me", "You"] # multiple authors
